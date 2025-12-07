@@ -183,7 +183,7 @@ function App() {
                 {' • '}
                 <Typography
                   component="a"
-                  href="mailto:m@gmail.com"
+                  href="mailto:nmukul32@gmail.com"
                   sx={{
                     color: 'secondary.main',
                     textDecoration: 'none',
